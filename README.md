@@ -34,8 +34,8 @@
 
 <p align="center">
     I am at: <br>
-<a href="https://www.facebook.com/profile.php?id=100013136448050" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%2314354C.svg?&style=for-the-badge&logo=website&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/abir-ben-khedher-8b70221b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100013136448050" target="_blank"><img src="https://img.shields.io/badge/Facebook%20-%2314354C.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abir-ben-khedher-8b70221b0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.github.com/abirbenkhedher" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <br />
 <br />
